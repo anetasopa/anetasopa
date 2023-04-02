@@ -1,4 +1,4 @@
-![25332](https://user-images.githubusercontent.com/58802893/229363395-2ec14c71-29e8-4b04-a29a-304b6f46aebd.jpg = 250x250)
+![25332](https://user-images.githubusercontent.com/58802893/229363395-2ec14c71-29e8-4b04-a29a-304b6f46aebd.jpg=250x250)
 
 Hi there 👋 
 
