@@ -1,6 +1,7 @@
 <img src="https://user-images.githubusercontent.com/58802893/229369851-febece0b-35fa-4ca7-b1e8-216fe5edd296.jpg" width="100%" height="300" />
  
-Hi!
+Hi there 👋
+___
 
 I am Aneta 🦋 
 
