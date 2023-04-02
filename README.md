@@ -1,9 +1,12 @@
 ### Hi there 👋
+
+![5664591](https://user-images.githubusercontent.com/58802893/229362311-58b16c5f-368a-4717-acb0-f7a7547d697f.jpg)
+
 I am Aneta. I have been programming for a while. I like programming very much! Programming is my passion. I love writing code, creating new projects and being in this field. Constantly gaining information, which is an inseparable element of 'this world', motivates me to further develop and invest in myself and in my future.
 
 I am currently working on my big project, which concerns various types of quizzes. Where can you practice your English. I started doing it because I was learning English myself, and doing this project helps me develop in English and programming.
 
-![orchid](https://user-images.githubusercontent.com/58802893/229362111-807e9ac9-ea04-4d34-b463-978c083cc1f1.png)
+
 
 <!--
 **butterfly-123/butterfly-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
