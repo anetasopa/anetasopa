@@ -1,9 +1,15 @@
-<img src="https://user-images.githubusercontent.com/58802893/229369679-7fff7b7a-29e0-429b-8ed4-2ac7629b3b8d.jpg" width="100%" height="200" />
+<img src="https://user-images.githubusercontent.com/58802893/229369851-febece0b-35fa-4ca7-b1e8-216fe5edd296.jpg" width="100%" height="300" />
  
-Hi there 👋
-I am Aneta I have been programming for a while. I like programming very much! Programming is my passion. I love writing code, creating new projects and being in this field. Constantly gaining information, which is an inseparable element of 'this world', motivates me to further develop and invest in myself and in my future.
+Hi!
 
-I am currently working on my big project, which concerns various types of quizzes. Where can you practice your English. I started doing it because I was learning English myself, and doing this project helps me develop in English and programming.
+I am Aneta 🦋 
+
+I started programming because I came to the conclusion that it is my **passion**, something that I can do with every free part of my time. I really like solving various problems related to the code and creating my own projects 🤓 The field of programming leaves me constantly mobilized to develop and invest new knowledge in myself! **I really enjoy coding!** 
+
+💡 *Recently* I am working on a project that has quizzes where you can train your English. This project came to my mind because I was learning English and it helped me a lot and helps me in this field and the field of programming as well.
+
+In the meantime, I've also done a few smaller projects.
+
 
 
 
