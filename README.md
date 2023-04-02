@@ -8,7 +8,13 @@ I started programming because I came to the conclusion that it is my **passion**
 
 💡 *Recently* I am working on a project that has quizzes where you can train your English. This project came to my mind because I was learning English and it helped me a lot and helps me in this field and the field of programming as well.
 
-In the meantime, I've also done a few smaller projects.
+In the meantime, I've also done a few smaller projects. Here are links to them:
+
+* Solar system: https://codesandbox.io/s/solar-system-forked-dd77v7
+* Particle movement: https://codesandbox.io/s/particle-movement-forked-50qeo6?file=/index.html:82-99
+* Colored balls: https://codesandbox.io/s/colored-balls-forked-lcl1ve?file=/index.html
+* Game: https://codesandbox.io/s/game-forked-qq7z7g?file=/index.html
+
 
 
 
