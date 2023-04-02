@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/58802893/229369679-7fff7b7a-29e0-429b-8ed4-2ac7629b3b8d.jpg" width="auto" height="200" />
+<img src="https://user-images.githubusercontent.com/58802893/229369679-7fff7b7a-29e0-429b-8ed4-2ac7629b3b8d.jpg" width="100%" height="200" />
  
 Hi there 👋
 I am Aneta I have been programming for a while. I like programming very much! Programming is my passion. I love writing code, creating new projects and being in this field. Constantly gaining information, which is an inseparable element of 'this world', motivates me to further develop and invest in myself and in my future.
