@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![5664591](https://user-images.githubusercontent.com/58802893/229362311-58b16c5f-368a-4717-acb0-f7a7547d697f.jpg) | width=100)
+![5664591](https://user-images.githubusercontent.com/58802893/229362311-58b16c5f-368a-4717-acb0-f7a7547d697f.jpg | width=100)
 
 I am Aneta. I have been programming for a while. I like programming very much! Programming is my passion. I love writing code, creating new projects and being in this field. Constantly gaining information, which is an inseparable element of 'this world', motivates me to further develop and invest in myself and in my future.
 
