@@ -7,7 +7,7 @@ I am Aneta 🦋
 
 I started programming because I came to the conclusion that it is my **passion**, something that I can do with every free part of my time. I really like solving various problems related to the code and creating my own projects 🤓 The field of programming leaves me constantly mobilized to develop and invest new knowledge in myself! **I really enjoy coding!** 
 
-💡 *Recently* I am working on a project that has quizzes where you can train your English. I thought about this it because I was learning English and I know that it is not easy to learn a foreign language. So I would like to create an application that will help other people learn the language faster and also have some fun learning it.
+💡 *Recently* I am working on a project that has quizzes where you can train your English. I thought about it because I was learning English and I know that it is not easy to learn a foreign language. So I would like to create an application that will help other people learn the language faster and also have some fun with it.
 
 In the meantime, I've also done a few smaller projects. Here are links to them:
 
