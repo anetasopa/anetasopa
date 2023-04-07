@@ -11,14 +11,12 @@ I started programming because I came to the conclusion that it is my **passion**
 
 In the meantime, I've also done a few smaller projects. Here are links to them:
 
-* Solar system: https://codesandbox.io/s/solar-system-forked-dd77v7
-* Particle movement: https://codesandbox.io/s/particle-movement-forked-50qeo6?file=/index.html:82-99
-* Colored balls: https://codesandbox.io/s/colored-balls-forked-lcl1ve?file=/index.html
-* Game: https://codesandbox.io/s/game-forked-qq7z7g?file=/index.html
-
-
-
-
+* [Solar system](https://codesandbox.io/s/solar-system-forked-dd77v7)
+* [Particle movement](https://codesandbox.io/s/particle-movement-forked-50qeo6?file=/index.html:82-99)
+* [Colored balls](https://codesandbox.io/s/colored-balls-forked-lcl1ve?file=/index.html)
+* [Game](https://codesandbox.io/s/game-forked-qq7z7g?file=/index.html)
+* [Weather app](https://codesandbox.io/s/weather-app-p4ncf2)
+* [Todo list]()
 
 <!--
 **butterfly-123/butterfly-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
