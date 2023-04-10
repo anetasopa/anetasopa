@@ -17,7 +17,7 @@ In the meantime, I've also done a few smaller projects. Here are links to them:
 * [Game](https://codesandbox.io/s/game-forked-qq7z7g?file=/index.html)
 * [Weather app](https://codesandbox.io/s/weather-app-p4ncf2?file=/src/setupTests.js)
 * [Todo list](https://codesandbox.io/s/todo-list-forked-t9nvhs)
-* Dragons ([https://codesandbox.io/s/todo-list-forked-t9nvhs](http://localhost:3002/))
+* [Dragons](http://localhost:3002/)
 
 <!--
 **butterfly-123/butterfly-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
