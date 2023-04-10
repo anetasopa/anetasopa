@@ -15,7 +15,7 @@ In the meantime, I've also done a few smaller projects. Here are links to them:
 * [Particle movement](https://codesandbox.io/s/particle-movement-forked-50qeo6?file=/index.html:82-99)
 * [Colored balls](https://codesandbox.io/s/colored-balls-forked-lcl1ve?file=/index.html)
 * [Game](https://codesandbox.io/s/game-forked-qq7z7g?file=/index.html)
-* [Weather app](https://codesandbox.io/s/weather-app-p4ncf2?file=/src/setupTests.js)
+* [Weather app](https://codesandbox.io/s/weather-app-p4ncf2?file=/src/App.js)
 * [Todo list](https://codesandbox.io/s/todo-list-forked-t9nvhs)
 * [Dragons](http://localhost:3002/)
 
