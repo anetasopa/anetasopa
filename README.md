@@ -16,7 +16,7 @@ In the meantime, I've also done a few smaller projects. Here are links to them:
 * [Colored balls](https://codesandbox.io/s/colored-balls-forked-lcl1ve?file=/index.html)
 * [Game](https://codesandbox.io/s/game-forked-qq7z7g?file=/index.html)
 * [Weather app](https://codesandbox.io/s/weather-app-p4ncf2?file=/src/App.js)
-* [Todo list](https://codesandbox.io/s/todo-list-forked-t9nvhs)
+* [Todo list](https://codesandbox.io/s/todo-list-forked-t9nvhs?file=/index.html)
 * [Dragons](http://localhost:3002/)
 
 <!--
