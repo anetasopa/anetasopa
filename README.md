@@ -16,7 +16,7 @@ In the meantime, I've also done a few smaller projects. Here are links to them:
 * [Colored balls](https://colored-balls-batterfly-123.netlify.app/)
 * [Game](https://game-pong-batterfly-123.netlify.app/)
 * [Weather app](https://to-do-butterfly-123.netlify.app)
-* [Todo list](https://codesandbox.io/s/todo-list-forked-t9nvhs?file=/index.html)
+* [Todo list](https://to-do-butterfly-123.netlify.app)
 * [Dragons](http://localhost:3002/)
 
 <!--
