@@ -29,7 +29,7 @@ Here is the movement of balls in different colors, sizes and speeds.
 * [repo](https://github.com/butterfly-123/colored-balls)
 
 ### GAME PONG
-Pong is a game that consists in bouncing a ball with two paddles. Good luck 😄
+Pong is a game that consists in bouncing a ball with two paddles. Good luck 💪
 * [link](https://game-pong-batterfly-123.netlify.app/)
 * [repo](https://github.com/butterfly-123/game-pong)
 
