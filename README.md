@@ -14,11 +14,12 @@ In the meantime, I've also done a few smaller projects.
 Here are links to them:
 
 ### SOLAR SYSTEM
-This application demonstrates how a solar system of planets looks and behaves when zoomed out.
+The page demonstrates how a solar system of planets looks and behaves when zoomed out.
 * [link](https://solar-system-butterfly-123.netlify.app/)
 * [repo](https://github.com/butterfly-123/solar-system)
 
 ### PARTICLE MOVEMENT
+It is an application that shows the movement of particles. The code is based on the principles of physics.
 * [link](https://particle-movement-batterfly-123.netlify.app/)
 * [repo](https://github.com/butterfly-123/particle-movement)
 
