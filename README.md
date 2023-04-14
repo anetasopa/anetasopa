@@ -14,7 +14,7 @@ In the meantime, I've also done a few smaller projects. Here are links to them:
 * [Solar system](https://solar-system-butterfly-123.netlify.app/)
 * [Particle movement](https://particle-movement-batterfly-123.netlify.app/)
 * [Colored balls](https://colored-balls-batterfly-123.netlify.app/)
-* [Game](https://game-pong-batterfly-123.netlify.app/)
+* [Game pong](https://game-pong-batterfly-123.netlify.app/)
 * [Weather app](https://to-do-butterfly-123.netlify.app)
 * [Todo list](https://to-do-butterfly-123.netlify.app)
 * [Dragons](http://localhost:3002/)
