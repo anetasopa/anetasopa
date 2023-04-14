@@ -9,15 +9,37 @@ I started programming because I came to the conclusion that it is my **passion**
 
 💡 *Recently* I am working on a project that has quizzes where you can train your English. I thought about it because I was learning English and I know that it is not easy to learn a foreign language. So I would like to create an application that will help other people learn the language faster and also have some fun with it.
 
-In the meantime, I've also done a few smaller projects. Here are links to them:
+In the meantime, I've also done a few smaller projects. 
 
-* [Solar system](https://solar-system-butterfly-123.netlify.app/)
-* [Particle movement](https://particle-movement-batterfly-123.netlify.app/)
-* [Colored balls](https://colored-balls-batterfly-123.netlify.app/)
-* [Game pong](https://game-pong-batterfly-123.netlify.app/)
-* [Weather app](https://to-do-butterfly-123.netlify.app)
-* [Todo list](https://to-do-butterfly-123.netlify.app)
-* [Dragons](http://localhost:3002/)
+Here are links to them:
+
+### SOLAR SYSTEM
+* [link](https://solar-system-butterfly-123.netlify.app/)
+* [repo](https://github.com/butterfly-123/solar-system)
+
+### PARTICLE MOVEMENT
+* [link](https://particle-movement-batterfly-123.netlify.app/)
+* [repo](https://github.com/butterfly-123/particle-movement)
+
+### COLORED BALLS
+* [link](https://colored-balls-batterfly-123.netlify.app/)
+* [repo](https://github.com/butterfly-123/colored-balls)
+
+### GAME PONG
+* [link](https://game-pong-batterfly-123.netlify.app/)
+* [repo](https://github.com/butterfly-123/game-pong)
+
+### WEATHER APP
+* [link](https://to-do-butterfly-123.netlify.app)
+* [repo](https://github.com/butterfly-123/weather-app)
+
+### TODO LIST
+* [link](https://to-do-butterfly-123.netlify.app)
+* [repo](https://github.com/butterfly-123/to-do-list)
+
+### DRAGONS
+* [link](http://localhost:3002/)
+* [repo](https://github.com/butterfly-123/dragons)
 
 <!--
 **butterfly-123/butterfly-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
