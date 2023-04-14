@@ -14,7 +14,7 @@ In the meantime, I've also done a few smaller projects.
 Here are links to them:
 
 ### SOLAR SYSTEM
-The page demonstrates how a solar system of planets looks and behaves when zoomed out.
+The page demonstrates how a solar system of planets looks and behaves when zoomed out 🪐
 * [link](https://solar-system-butterfly-123.netlify.app/)
 * [repo](https://github.com/butterfly-123/solar-system)
 
@@ -29,18 +29,24 @@ Here is the movement of balls in different colors, sizes and speeds.
 * [repo](https://github.com/butterfly-123/colored-balls)
 
 ### GAME PONG
+Pong is a game that consists in bouncing a ball with two paddles. Good luck 😄
 * [link](https://game-pong-batterfly-123.netlify.app/)
 * [repo](https://github.com/butterfly-123/game-pong)
 
 ### WEATHER APP
+This is an application that will show you the weather in different parts of the world.
+
 * 
 * [repo](https://github.com/butterfly-123/weather-app)
 
 ### TODO LIST
+Thank this aplication you can save, edit and remove your daily tasks.
 * [link](https://to-do-butterfly-123.netlify.app)
 * [repo](https://github.com/butterfly-123/to-do-list)
 
 ### DRAGONS
+With this application you can feel like a real 'dragon' seller! You can buy, update your dragon and sell at the price you want 🌱 
+
 * 
 * [repo](https://github.com/butterfly-123/dragons)
 
