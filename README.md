@@ -30,7 +30,7 @@ Here are links to them:
 * [repo](https://github.com/butterfly-123/game-pong)
 
 ### WEATHER APP
-* [link](https://to-do-butterfly-123.netlify.app)
+* 
 * [repo](https://github.com/butterfly-123/weather-app)
 
 ### TODO LIST
@@ -38,7 +38,7 @@ Here are links to them:
 * [repo](https://github.com/butterfly-123/to-do-list)
 
 ### DRAGONS
-* [link](http://localhost:3002/)
+* 
 * [repo](https://github.com/butterfly-123/dragons)
 
 <!--
