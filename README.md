@@ -24,6 +24,7 @@ It is an application that shows the movement of particles. The code is based on 
 * [repo](https://github.com/butterfly-123/particle-movement)
 
 ### COLORED BALLS
+Here is the movement of balls in different colors, sizes and speeds.
 * [link](https://colored-balls-batterfly-123.netlify.app/)
 * [repo](https://github.com/butterfly-123/colored-balls)
 
