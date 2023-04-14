@@ -35,8 +35,7 @@ Pong is a game that consists in bouncing a ball with two paddles. Good luck 💪
 
 ### WEATHER APP
 This is an application that will show you the weather in different parts of the world.
-
-* 
+* [link](https://weather-app-butterfly-123.netlify.app/) 
 * [repo](https://github.com/butterfly-123/weather-app)
 
 ### TODO LIST
