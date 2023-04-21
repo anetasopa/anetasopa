@@ -40,7 +40,7 @@ This is an application that will show you the weather in different parts of the 
 
 ### THE MOST INFLUENTIAL PEOPLE
 This is an application that will show you the the most infuential people in the world.
-* []() 
+* [link](https://the-influential-people-batterfly-123.netlify.app) 
 * [repo](https://github.com/butterfly-123/the-most-influential-people)
 
 ### TODO LIST
