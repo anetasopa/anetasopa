@@ -38,6 +38,11 @@ This is an application that will show you the weather in different parts of the 
 * [link](https://weather-app-butterfly-123.netlify.app/) 
 * [repo](https://github.com/butterfly-123/weather-app)
 
+### THE MOST INFLUENTIAL PEOPLE
+This is an application that will show you the the most infuential people in the world.
+* [link]() 
+* [repo](https://github.com/butterfly-123/the-most-influential-people)
+
 ### TODO LIST
 Thank this aplication you can save, edit and remove your daily tasks.
 * [link](https://to-do-butterfly-123.netlify.app)
