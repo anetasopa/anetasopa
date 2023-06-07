@@ -1,9 +1,7 @@
-<img src="https://user-images.githubusercontent.com/58802893/229369851-febece0b-35fa-4ca7-b1e8-216fe5edd296.jpg" width="100%" height="300" />
- 
 Hi there 👋
 ___
 
-I am Aneta 🦋 
+I am Aneta 
 
 I started programming because I came to the conclusion that it is my **passion**, something that I can do with every free part of my time. I really like solving various problems related to the code and creating my own projects 🤓 The field of programming leaves me constantly mobilized to develop and invest new knowledge in myself! **I really enjoy coding!** 
 
