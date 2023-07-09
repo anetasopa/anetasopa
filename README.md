@@ -1,19 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aneta</h1>
 <h3 align="center">A passionate Web Developer</h3>
-
+  
 - 🔭 I’m currently working on the final UpLeveled project
 
 ### FINAL PROJECT
 Web Application to chat with others with the same or similar interests.
 * [link](https://final-project-peach-pi.vercel.app/)
 * [repo](https://github.com/anetasopa/final-project)
-
-### FINAL PROJECT
-Web Application to chat with others with the same or similar interests.
-* [link](https://final-project-peach-pi.vercel.app/)
-* [repo](https://github.com/anetasopa/final-project)
-  
-- 📫 How to reach me **sopaaneta@gmail.com**
 
 <h3 align="left">Also done with upLeveld bootcamp.:</h3>
 
@@ -36,6 +29,8 @@ This is an application where the user can choose the type of coffee and add to t
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://www.slingacademy.com/article/how-to-use-sass-in-next-js/" target="_blank" rel="noreferrer"> <img src="https://github.com/anetasopa/anetasopa/assets/58802893/95ccd2a8-bd5c-457c-b6e8-72bd7e393783" alt="sass" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+
+- 📫 How to reach me **sopaaneta@gmail.com**
 
 <h3 align="left">I've also done:</h3>
 
