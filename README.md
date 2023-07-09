@@ -1,11 +1,29 @@
 <h1 align="center">Hi 👋, I'm Aneta</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
-- 🔭 I’m currently working on [the final UpLeveled project](https://github.com/anetasopa/final-project)
+- 🔭 I’m currently working on the final UpLeveled project
 
+### FINAL PROJECT
+Web Application to chat with others with the same or similar interests.
+* [link](https://final-project-peach-pi.vercel.app/)
+* [repo](https://github.com/anetasopa/final-project)
+
+### FINAL PROJECT
+Web Application to chat with others with the same or similar interests.
+* [link](https://final-project-peach-pi.vercel.app/)
+* [repo](https://github.com/anetasopa/final-project)
+  
 - 📫 How to reach me **sopaaneta@gmail.com**
 
+<h3 align="left">Also done with upLeveld bootcamp.:</h3>
+
+### ECOMMERCE STORE PROJECT 
+This is an application where the user can choose the type of coffee and add to the cart.
+* [link](https://next-ecommerce-store-chi.vercel.app/)
+* [repo](https://github.com/anetasopa/next-ecommerce-store)
+
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left"> 
   <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
