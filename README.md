@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Aneta</h1>
 <h3 align="center">Web developer currently based in Vienna, Austria.</h3>
 
+I started programming because I came to the conclusion that it is my **passion**, something that I can do with every free part of my time. I really like solving 
+ various problems related to the code and creating my own projects. The field of programming leaves me constantly mobilized to develop and invest new knowledge in myself!
 
 🌱  I’m currently learning PERN stack at [upLeveled](https://github.com/upleveled) bootcamp
    
 🔭  I’m currently working on the [final](https://github.com/anetasopa/final-project) UpLeveled project, a **Web Application** to communicate with others with the same or similar interests.
 
 🔧  I'm currently developing with **JavaScript**, **TypeScript**, **React**, **Next.js**, **Node.js** and **PosgreSQL**, but I am always learning new technologies and growing my tech stack.
+
+👨‍💻 All of my [projects](https://github.com/anetasopa?tab=repositories&type=source) are available.
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -27,4 +31,4 @@
 📫  How to reach me:
   - **Email**: sopaaneta@gmail.com
   - **LinkedIn**: [Aneta Sopa](https://www.linkedin.com/in/aneta-sopa/)
-
+    
