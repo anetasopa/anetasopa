@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aneta</h1>
 <h3 align="center">Web developer currently based in Vienna, Austria.</h3>
 
-I started programming because I came to the conclusion that it is my **passion**, something that I can do with every free part of my time. I really like solving 
- various problems related to the code and creating my own projects. The field of programming leaves me constantly mobilized to develop and invest new knowledge in myself!
+
+I started programming because I came to the conclusion that it is my **passion**, something that I can do with every free part of my time. I really like solving various problems related to the code and creating my own projects. The field of programming leaves me constantly mobilized to develop and invest new knowledge in myself!
 
 🌱  I’m currently learning PERN stack at [upLeveled](https://github.com/upleveled) bootcamp
    
