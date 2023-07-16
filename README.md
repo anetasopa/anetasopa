@@ -2,10 +2,11 @@
 <h3 align="center">Web developer currently based in Vienna, Austria.</h3>
 
 
-🌱 I’m currently learning PERN stack at [upLeveled](https://github.com/upleveled) bootcamp
+🌱  I’m currently learning PERN stack at [upLeveled](https://github.com/upleveled) bootcamp
    
-🔭 I’m currently working on the [final](https://github.com/anetasopa/final-project) UpLeveled project, a Web Application to communicate with others with the same or similar interests.
+🔭  I’m currently working on the [final](https://github.com/anetasopa/final-project) UpLeveled project, a **Web Application** to communicate with others with the same or similar interests.
 
+🔧  I'm currently developing with **JavaScript**, **TypeScript**, **React**, **Next.js**, **Node.js** and **PosgreSQL**, but I am always learning new technologies and growing my tech stack.
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -23,7 +24,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 
 
-📫 How to reach me:
+📫  How to reach me:
   - **Email**: sopaaneta@gmail.com
   - **LinkedIn**: [Aneta Sopa](https://www.linkedin.com/in/aneta-sopa/)
 
