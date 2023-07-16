@@ -24,6 +24,6 @@
 
 
 📫 How to reach me:
-  - Email: sopaaneta@gmail.com
-  - LinkedIn: [Aneta Sopa](https://www.linkedin.com/in/aneta-sopa/)
+  - **Email**: sopaaneta@gmail.com
+  - **LinkedIn**: [Aneta Sopa](https://www.linkedin.com/in/aneta-sopa/)
 
