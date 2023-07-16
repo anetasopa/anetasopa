@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aneta</h1>
-<h3 align="center">Frontend developer currently based in Vienna, Austria.</h3>
+<h3 align="center">Web developer currently based in Vienna, Austria.</h3>
 
 
 🌱 I’m currently learning PERN stack at [upLeveled](https://github.com/upleveled) bootcamp
