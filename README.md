@@ -4,11 +4,11 @@
 
 I started my programming journey because I realized it's my true **passion**, something that deeply interests me in every spare moment. I find great satisfaction in tackling various coding challenges and creating my own innovative projects. The world of programming constantly motivates me to grow and nurture a strong desire for new knowledge!
 
-🌱  I’m currently learning PERN stack at [upLeveled](https://github.com/upleveled) bootcamp
+🌱  I’m currently learning PERN stack at [UpLeveled](https://upleveled.io/) bootcamp
    
-🔭  I’m currently working on the [final](https://github.com/anetasopa/final-project) UpLeveled project, a **Web Application** to communicate with others with the same or similar interests.
+🔭  I’m currently working on [my final project](https://github.com/anetasopa/final-project) for UpLeveled, a **Web Application** to communicate with others with the same or similar interests.
 
-🔧  I'm currently developing with **JavaScript**, **TypeScript**, **React**, **Next.js**, **Node.js** and **PosgreSQL**, but I am always learning new technologies and growing my tech stack.
+🔧  I'm currently developing with **JavaScript**, **TypeScript**, **React**, **Next.js**, **Node.js** and **PostgreSQL**, but I am always learning new technologies and growing my tech stack.
 
 👨‍💻 All of my [projects](https://github.com/anetasopa?tab=repositories&type=source) are available.
 
