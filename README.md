@@ -2,7 +2,7 @@
 <h3 align="center">Web developer currently based in Vienna, Austria.</h3>
 
 
-I began my journey in programming due to the realization that it is my true **passion**, a pursuit that engrosses me in every spare moment. I derive immense **satisfaction** from resolving diverse coding challenges and crafting my own innovative projects. The realm of programming continuously propels me to advance and cultivate fresh expertise within myself!
+I started my programming journey because I realized it's my true **passion**, something that deeply interests me in every spare moment. I find great satisfaction in tackling various coding challenges and creating my own innovative projects. The world of programming constantly motivates me to grow and nurture a strong desire for new knowledge!
 
 🌱  I’m currently learning PERN stack at [upLeveled](https://github.com/upleveled) bootcamp
    
