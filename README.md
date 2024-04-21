@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aneta</h1>
-<h3 align="center">Web developer currently based in Vienna, Austria.</h3>
+<h3 align="center">Frontend Developer currently based in Vienna, Austria.</h3>
 
 
 I started my programming journey because I realized it's my true **passion**, something that deeply interests me in every spare moment. I find great satisfaction in tackling various coding challenges and creating my own innovative projects. The world of programming constantly motivates me to grow and nurture a strong desire for new knowledge!
 
-🌱  I’m currently learning PERN stack at [UpLeveled](https://upleveled.io/) bootcamp
+🌱  I'm currently working as a Frontend Developer.
    
-🔭  I’m currently working on [my final project](https://github.com/anetasopa/final-project) for UpLeveled, a **Web Application** to communicate with others with the same or similar interests.
-
-🔧  I'm currently developing with **JavaScript**, **TypeScript**, **React**, **Next.js**, **Node.js** and **PostgreSQL**, but I am always learning new technologies and growing my tech stack.
-
 👨‍💻 All of my [projects](https://github.com/anetasopa?tab=repositories&type=source) are available.
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,7 +23,6 @@ I started my programming journey because I realized it's my true **passion**, so
   <a href="https://www.slingacademy.com/article/how-to-use-sass-in-next-js/" target="_blank" rel="noreferrer"> <img src="https://github.com/anetasopa/anetasopa/assets/58802893/95ccd2a8-bd5c-457c-b6e8-72bd7e393783" alt="sass" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p></a> 
-
 
 📫  How to reach me:
   - **Email**: sopaaneta@gmail.com
