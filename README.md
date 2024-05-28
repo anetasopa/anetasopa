@@ -23,6 +23,7 @@ I started my programming journey because I realized it's my true **passion**, so
   <a href="https://www.slingacademy.com/article/how-to-use-sass-in-next-js/" target="_blank" rel="noreferrer"> <img src="https://github.com/anetasopa/anetasopa/assets/58802893/95ccd2a8-bd5c-457c-b6e8-72bd7e393783" alt="sass" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p></a> 
+  <a href="https://www.gitkraken.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" alt="gitkraken" width="40" height="40"/> </a> </p></a>
 
 📫  How to reach me:
   - **Email**: sopaaneta@gmail.com
