@@ -24,6 +24,7 @@ I started my programming journey because I realized it's my true **passion**, so
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p></a> 
   <a href="https://www.gitkraken.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" alt="gitkraken" width="40" height="40"/> </a> </p></a>
+  
 
 📫  How to reach me:
   - **Email**: sopaaneta@gmail.com
