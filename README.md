@@ -3,8 +3,6 @@
 
 
 I started my programming journey because I realized it's my true **passion**, something that deeply interests me in every spare moment. I find great satisfaction in tackling various coding challenges and creating my own innovative projects. The world of programming constantly motivates me to grow and nurture a strong desire for new knowledge!
-
-🌱  I'm currently working as a Frontend Developer.
    
 👨‍💻 All of my [projects](https://github.com/anetasopa?tab=repositories&type=source) are available.
 
